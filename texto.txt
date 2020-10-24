@@ -1,3 +1,2 @@
   teste do git revert 2
 
-  teste 3
